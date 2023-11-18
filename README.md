@@ -1,4 +1,4 @@
-# FYP-Intelligent-Algorithms-for-DNA-Detection
+# FYP-Intelligent-Algorithms-for-DNA-Detection-Using-Deep-Learning_Transformers
 
 This repository contains the code for my Final Year Project at Imperial College London on Deep Learning Algorithms for DNA Sequence Detection by Loop-Mediated Isothermal Amplification (LAMP).
 
